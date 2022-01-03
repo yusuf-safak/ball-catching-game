@@ -1,0 +1,47 @@
+#window2
+{
+    visibility: hidden;
+    position: absolute;
+    top: 0;
+}
+#firstWindow
+{
+    text-align: center;
+    background-color: orange;
+    width: 500px;
+    height: 500px;
+}
+#start
+{
+    font-size: 30px;
+    border-radius: 20px;
+    width: 150px;
+    height: 70px;
+    margin-top: 180px;
+    background-color: purple;
+}
+.container
+{
+    width: 500px;
+    height: 500px;
+    border: 5px orange dashed;
+    background-color: purple;
+}
+#lastWindow
+{
+    visibility: hidden;
+    position: absolute;
+    top: 0;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(131, 7, 7);
+}
+#gameOver
+{
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    color: blue;
+    margin-top: 200px;
+}
